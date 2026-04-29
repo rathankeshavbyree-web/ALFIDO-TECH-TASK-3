@@ -104,7 +104,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Live Demo**: 
 
+https://alfido-tech-task-3-nu.vercel.app/
+
+---
+
 **Documentation**: 
+
+https://docs.google.com/document/d/1HcDwnKuOwLlivOdDE_MygHQdz85_KqkwTSSxtG1qwDk/edit?usp=sharing
 
 ---
 
